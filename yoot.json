@@ -1,0 +1,39 @@
+{
+  "name": "y00ts White List ✅",
+  "symbol": "y00t",
+  "description": "Thanks to the NFT you bought on the MagicEden site, you have earned the right to free Mint.🥳 \n\n y00ts is a generative art project of 15,000 NFTs. y00topia is a curated community of builders and creators. Each y00t was designed by De Labs in Los Angeles \n\n You can have your free Mint right to our limited NFT collection during the day on our site.🔽",
+  "seller_fee_basis_points": 100,
+  "external_url": "https://y00t-opia.netlify.app",
+  "edition": "Alpha",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "Floor",
+      "value": "9.2 SOL"
+    },
+    {
+      "trait_type": "White List",
+      "value": "Free"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "mag1cqJMr5WeycmET2UyLU5ZEH3uNUCnvMywBdUxAm5",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://github.com/holydiamonds/nftfiles/blob/main/y00ts.jpg?raw=true",
+        "file_type": "image/gif"
+      }
+    ]
+  },
+  "collection": {
+    "name": "y00t",
+    "family": "WhiteList"
+  },
+  "image": "https://github.com/holydiamonds/nftfiles/blob/main/y00ts.jpg?raw=true"
+}
